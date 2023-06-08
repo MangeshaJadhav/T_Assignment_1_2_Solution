@@ -1,0 +1,17 @@
+{
+  "name": "7thjune-afternoon",
+  "version": "1.0.0",
+  "description": "First-Hands-On-Session",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "pg": "^8.11.0"
+  }
+}
